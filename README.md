@@ -6,8 +6,7 @@
 <h2> About Me </h2>
 
 
-<img width="55%" align="right" alt="" src="![image](https://user-images.githubusercontent.com/109806090/185121662-011d0c29-96cf-4153-a03c-efad8337ca24.png)
-" height="20%" />
+<img width="55%" align="right" alt="" src="https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg" height="20%" />
 
 <br/>
 
